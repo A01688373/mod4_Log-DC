@@ -1,0 +1,28 @@
+2023-08-20 11:42:35,404:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:42:35,533:__main__:itesm_mlops_log:INFO:test roc-auc : 0.8693709755227887
+2023-08-20 11:42:35,536:__main__:itesm_mlops_log:INFO:test accuracy: 0.7348336594911937
+2023-08-20 11:43:00,466:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:43:00,593:__main__:itesm_mlops_log:INFO:test roc-auc : 0.8693709755227887
+2023-08-20 11:43:00,595:__main__:itesm_mlops_log:INFO:test accuracy: 0.7348336594911937
+2023-08-20 11:44:01,740:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:44:01,852:__main__:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 11:44:01,852:__main__:itesm_mlops_log:INFO:test accuracy: 0.7348336594911937
+2023-08-20 11:47:28,555:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:47:28,664:__main__:itesm_mlops_log:INFO:test roc-auc : 0.8693709755227887
+2023-08-20 11:47:28,664:__main__:itesm_mlops_log:INFO:test accuracy: 0.7348336594911937
+2023-08-20 11:50:56,994:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:50:57,081:__main__:itesm_mlops_log:INFO:test roc-auc : 0.8693709755227887
+2023-08-20 11:50:57,081:__main__:itesm_mlops_log:INFO:test accuracy: 0.7348336594911937
+2023-08-20 11:51:47,677:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:51:47,771:__main__:itesm_mlops_log:INFO:test accuracy: 0.7348336594911937
+2023-08-20 11:54:56,514:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 11:54:56,624:__main__:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 11:56:39,758:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 14:26:37,795:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 14:54:36,101:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:00:06,585:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:01:04,131:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:03:27,895:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:04:02,849:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:05:15,610:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:10:20,003:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv

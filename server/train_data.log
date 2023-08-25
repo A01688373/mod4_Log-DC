@@ -1,0 +1,259 @@
+2023-08-20 14:52:09,219:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 14:52:09,235:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 14:52:09,266:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 14:52:09,266:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 14:52:09,266:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 14:54:36,101:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 14:54:36,195:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 14:54:36,210:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 14:54:36,242:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 14:54:36,242:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 14:54:36,242:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 15:00:06,585:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:00:06,726:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:00:06,757:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:00:06,773:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 15:00:06,773:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 15:00:06,773:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 15:01:04,131:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:01:04,228:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:01:04,244:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:01:04,259:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 15:01:04,259:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 15:01:04,275:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 15:03:27,842:root:load_data:INFO:Directory './data/' created successfully.
+2023-08-20 15:03:27,895:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:03:28,133:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:03:28,164:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:03:28,202:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 15:03:28,205:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 15:03:28,213:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 15:04:02,802:root:load_data:INFO:Directory './data/' created successfully.
+2023-08-20 15:04:02,849:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:04:02,949:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:04:02,964:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:04:02,996:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 15:04:02,996:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 15:04:02,996:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 15:05:15,579:root:load_data:INFO:Directory './data/' created successfully.
+2023-08-20 15:05:15,610:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:05:15,720:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:05:15,735:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:05:15,751:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 15:05:15,751:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 15:05:15,767:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
+2023-08-20 15:10:19,972:root:load_data:INFO:Directory './data/' created successfully.
+2023-08-20 15:10:20,003:__main__:itesm_mlops_log:INFO:Data stored in ./data/raw-data-stroke.csv
+2023-08-20 15:10:20,113:root:train_data:DEBUG:DEBUG X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:10:20,128:root:train_data:INFO:INFO X_train:         age  hypertension  ...  smoking_status_never smoked  smoking_status_smokes
+4958  60.00             0  ...                         True                  False
+2705  34.00             0  ...                        False                   True
+2490   0.88             0  ...                        False                  False
+190   65.00             0  ...                        False                  False
+1872  56.00             0  ...                        False                   True
+...     ...           ...  ...                          ...                    ...
+3579  65.00             0  ...                         True                  False
+2119  42.00             0  ...                        False                  False
+2657  36.00             0  ...                         True                  False
+4721  77.00             0  ...                        False                  False
+5108  51.00             0  ...                        False                  False
+
+[4088 rows x 20 columns]
+2023-08-20 15:10:20,160:root:itesm_mlops_log:DEBUG:test roc-auc : 0.8693709755227887
+2023-08-20 15:10:20,160:root:itesm_mlops_log:DEBUG:test accuracy: 0.7348336594911937
+2023-08-20 15:10:20,160:root:itesm_mlops_log:INFO:Model saved in ./models/logistic_regression_output.pkl
